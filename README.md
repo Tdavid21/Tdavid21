@@ -8,10 +8,6 @@
     - Full Stack Projects: Real-world applications showcasing end-to-end development.
 
 - 🌱 I’m currently learning React and cybersecurity (cryptography)
-- 📫 How to reach me?
-  Got questions, feedback, or just want to connect? Reach out to me through:
-    - Email: tiszudavid@gmail.com
-    - LinkedIn: www.linkedin.com/in/david-tisza-575605189
  
 Thank you for visiting my GitHub repository. Happy coding! 🚀
 
